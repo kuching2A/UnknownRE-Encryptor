@@ -1,0 +1,5 @@
+C:\Users\Jeroen_000\Documents\Reflector\Disassembler\Crypter\obj\x86\Debug\Crypter.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen_000\Documents\Reflector\Disassembler\Crypter\bin\Debug\Crypter.exe
+C:\Users\Jeroen_000\Documents\Reflector\Disassembler\Crypter\bin\Debug\Crypter.pdb
+C:\Users\Jeroen_000\Documents\Reflector\Disassembler\Crypter\obj\x86\Debug\Crypter.exe
+C:\Users\Jeroen_000\Documents\Reflector\Disassembler\Crypter\obj\x86\Debug\Crypter.pdb

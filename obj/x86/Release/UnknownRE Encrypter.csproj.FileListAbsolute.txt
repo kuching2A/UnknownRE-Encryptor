@@ -1,0 +1,10 @@
+J:\Programming\C#\UnknownRE Encrypter\bin\Release\UnknownREEncrypter.exe.config
+J:\Programming\C#\UnknownRE Encrypter\bin\Release\UnknownREEncrypter.exe
+J:\Programming\C#\UnknownRE Encrypter\bin\Release\UnknownREEncrypter.pdb
+J:\Programming\C#\UnknownRE Encrypter\obj\x86\Release\UnknownREEncrypter.g.resources
+J:\Programming\C#\UnknownRE Encrypter\obj\x86\Release\UnknownREEncrypter.StartupForm.resources
+J:\Programming\C#\UnknownRE Encrypter\obj\x86\Release\UnknownREEncrypter.UnknownREEncrypter.resources
+J:\Programming\C#\UnknownRE Encrypter\obj\x86\Release\UnknownREEncrypter.Properties.Resources.resources
+J:\Programming\C#\UnknownRE Encrypter\obj\x86\Release\UnknownRE Encrypter.csproj.GenerateResource.Cache
+J:\Programming\C#\UnknownRE Encrypter\obj\x86\Release\UnknownREEncrypter.exe
+J:\Programming\C#\UnknownRE Encrypter\obj\x86\Release\UnknownREEncrypter.pdb
